@@ -37,7 +37,6 @@ public class Main {
 		//CustomerManager customerManager1 = new CustomerManager dediğimizde Heap alanına customerManager1 nesnesi oluşuyor.
 		
 		
-		// deneme
 		
 	}
 
